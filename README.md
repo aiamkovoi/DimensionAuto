@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Photo" src="https://github.com/user-attachments/assets/9b3c5b98-2d51-4296-8992-a538dd74f675" />
+
 # Auto Dims SC v5
 
 A pyRevit script for automatic dimensioning of structural elements (walls, pylons, and structural columns) relative to grids in Revit.
